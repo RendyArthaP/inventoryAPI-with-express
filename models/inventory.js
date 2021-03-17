@@ -1,4 +1,4 @@
-const inventory = [
+let inventory = [
   {
     id: 0,
     nama: "Sepatu",
